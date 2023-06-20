@@ -1,4 +1,4 @@
-<h1 align="center">Resources for References</h1>
+<h1 align="center">GCS Resources for References</h1>
 
 Here is the list of resources that I have collected that would be useful to get yourself familiar with the technologies that we will be using for this year's cycle of NGCP. This document will be further updated in the future should any new development arises. 
 
