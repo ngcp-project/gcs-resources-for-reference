@@ -26,16 +26,19 @@ Feel free to make commits to this README or add new Markdown documents to add mo
 
 # Getting Started
 ## Version Control
+* [GitHub Pull Requests in 100 Seconds](https://www.youtube.com/watch?v=8lGpZkjnkt4) `video`
 * [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) `blog`
 * [Git Commands Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) `PDF`
 
 ---
 # User Interface
 ## [Tauri](https://tauri.app)
+* [Tauri in 100 Seconds](https://www.youtube.com/watch?v=-X8evddpu7M) `video`
 * [Create Tauri app with Vite](https://tauri.app/v1/guides/getting-started/setup/vite/) `documentation`
 * [Create Tiny Desktop Apps with Tauri and Vue.js](https://www.smashingmagazine.com/2020/07/tiny-desktop-apps-tauri-vuejs/) `blog` `tutorial` 
 
 ## [Vue.js](https://vuejs.org/guide/introduction.html)
+* [Vue.js in 100 Seconds](https://www.youtube.com/watch?v=nhBVL41-_Cw) `video`
 * [Using Vue with TypeScript](https://vuejs.org/guide/typescript/overview.html) `documentation`
 * [Vue.js WebSocket Tutorial](https://tutorialedge.net/javascript/vuejs/vuejs-websocket-tutorial/) `tutorial`
 * [Vue.js Examples](https://vuejsexamples.com/) `examples` `source-code`
@@ -61,8 +64,12 @@ Feel free to make commits to this README or add new Markdown documents to add mo
 * [WebSockets support in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-7.0) `documentation`
 
 ## [Redis](https://redis.io/docs/)
+* [Getting Started with Redis](https://redis.io/docs/getting-started/)
 * [StackExchange.Redis](https://stackexchange.github.io/StackExchange.Redis/) `documentation`
 * [joeferner/redis-commander](https://github.com/joeferner/redis-commander) `github`
+  * UI-based Redis management tool written in Node.js
+* [Messaging App using .NET Core, Redis and WebSockets](https://bercovici-adrian-simon.medium.com/ctesiphon-chat-application-using-net-redis-pub-sub-and-websockets-bd12b8032f8b) `medium` `tutorial`
+* [Basic Redis Chat App Demo C# (.NET Core 5)](https://github.com/redis-developer/basic-redis-chat-app-demo-dotnet) `github` `tutorial`
 
 ---
 # Vehicle Integration
@@ -83,6 +90,7 @@ Feel free to make commits to this README or add new Markdown documents to add mo
 ---
 # Communications
 ## WebSockets
+* [WebSocket in 100 Seconds](https://www.youtube.com/watch?v=1BfCnjr_Vjg)
 
 ## WebRTC & Video Streaming
 * [WebRTC on Raspberry Pi: Live HD Video and Audio Streaming](https://www.highvoltagecode.com/post/webrtc-on-raspberry-pi-live-hd-video-and-audio-streaming) `article` `tutorial`
