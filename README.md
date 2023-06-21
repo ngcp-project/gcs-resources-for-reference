@@ -62,7 +62,7 @@ Feel free to make commits to this README or add new Markdown documents to add mo
 
 ## [Redis](https://redis.io/docs/)
 * [StackExchange.Redis](https://stackexchange.github.io/StackExchange.Redis/) `documentation`
-* [joeferner/redis-commander](https://github.com/joeferner/redis-commander)
+* [joeferner/redis-commander](https://github.com/joeferner/redis-commander) `github`
 
 ---
 # Vehicle Integration
