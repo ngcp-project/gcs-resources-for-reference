@@ -27,6 +27,7 @@ Feel free to make commits to this README or add new Markdown documents to add mo
 # Getting Started
 ## Version Control
 * [GitHub Pull Requests in 100 Seconds](https://www.youtube.com/watch?v=8lGpZkjnkt4) `video`
+* [Using Git in VS Code](https://www.youtube.com/watch?v=lYiE5lBS13E) `video`
 * [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) `blog`
 * [Git Commands Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) `PDF`
 
