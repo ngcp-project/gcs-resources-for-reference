@@ -55,10 +55,13 @@ Feel free to make commits to this README or add new Markdown documents to add mo
 ---
 # Database
 ## C#
+* [Working with C# in VS Code](https://code.visualstudio.com/docs/languages/csharp) `vs-code` `documentation`
+* [Getting Started with C# in VS Code](https://code.visualstudio.com/docs/csharp/get-started) `vs-code` `tutorial` `documentation` 
 * [C# for Python Programmers](https://gist.github.com/mrkline/8302959) `github`
 * [C# for Java Developers](https://download.microsoft.com/download/D/E/E/DEE91FC0-7AA9-4F6E-9FFA-8658AA0FA080/CSharp%20for%20Java%20Developers%20-%20Cheat%20Sheet.pdf) `PDF`
 
 ## [ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-7.0)
+* [Download .NET 7](https://dotnet.microsoft.com/en-us/download) `download`
 * [Using .NET in Visual Studio Code](https://code.visualstudio.com/docs/languages/dotnet) `documentation`
 * [Create a web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio)  `documentation` `tutorial`
 * [Build minimal APIs in .NET 7 using Entity Framework Core 7](https://www.c-sharpcorner.com/article/build-minimal-apis-in-net-7-using-entity-framework-core-7/) `blog` `tutorial`
@@ -91,7 +94,9 @@ Feel free to make commits to this README or add new Markdown documents to add mo
 ---
 # Communications
 ## WebSockets
-* [WebSocket in 100 Seconds](https://www.youtube.com/watch?v=1BfCnjr_Vjg)
+* [WebSocket in 100 Seconds](https://www.youtube.com/watch?v=1BfCnjr_Vjg) `video`
+* [Writing WebSocket client applications](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications) `documentation` `mozilla`
+* [Node.js WebSocket Client: 3 Ways to Implement One](https://stateful.com/blog/nodejs-websocket-client) `blog`
 
 ## WebRTC & Video Streaming
 * [WebRTC on Raspberry Pi: Live HD Video and Audio Streaming](https://www.highvoltagecode.com/post/webrtc-on-raspberry-pi-live-hd-video-and-audio-streaming) `article` `tutorial`
