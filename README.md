@@ -24,5 +24,5 @@ To make changes to the resources list on the website, follow the steps below:
    ###### Remember to change the extension settings to print in dark mode before printing
 </div>
 
-1. Push the final changes onto a separate branch on GitHub and make a pull request.
-2. Once the pull request is approved, your changes should now be seen on the site itself. Congrats!
+4. Push the final changes onto a separate branch on GitHub and make a pull request.
+5. Once the pull request is approved, your changes should now be seen on the site itself. Congrats!
