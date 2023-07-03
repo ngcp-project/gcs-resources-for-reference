@@ -3,7 +3,6 @@
 # GCS Resources for References
 </div>
 
-
 Here is the list of resources that I have collected that would be useful to get yourself familiar with the technologies that we will be using for this year's cycle of NGCP. This document will be further updated in the future should any new development arises. 
 
 Feel free to make commits to this README or add new Markdown documents to add more helpful resources!
