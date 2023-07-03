@@ -15,26 +15,21 @@ To make changes to the resources list on the website, follow the steps below:
 2. Add extra resources into the `index.md` as you pleased, using the Markdown format
 3. Convert `index.md` into `index.html` using the [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) VS Code extension. 
 
-<div align='center' style="margin-top: 24px; margin-bottom: 48px; font-size: 14px">
-
-<img src="./assets/how_to_print_html.png" width="75%"/>
-
-With `index.md` opened, press `Ctrl + Shift + P`. Press on the first option to create a new `index.html` that will override the old one.  
+<div align='center'>
+   <img src="./assets/how_to_print_html.png" width="75%"/>
    
-<img src="./assets/extension_theme.PNG" width="50%" style="margin-top: 32px"/>
-
-Remember to change the extension settings to print in dark mode before printing
-
+   ###### With `index.md` opened, press `Ctrl + Shift + P`. Press on the first option to create a new `index.html` that will override the old one.     
+   <img src="./assets/extension_theme.PNG" width="50%" style="margin-top: 32px"/>
+   
+   ###### Remember to change the extension settings to print in dark mode before printing
 </div>
 
 4. Edit the `title` tag inside `index.html` to be **"GCS Resources for Reference"** instead.
 
-<div align='center' style="margin-top: 24px; font-size: 14px">
-
-<img src="./assets/change_title.PNG" width="75%"/>
-
-The `title` tag is usually initially called "Getting Started" or something similar
-
+<div align='center'>
+   <img src="./assets/change_title.PNG" width="75%"/>
+   
+   ###### The `title` tag is usually initially called "Getting Started" or something similar
 </div>
 
 5. Push the final changes onto a separate branch on GitHub and make a pull request.
