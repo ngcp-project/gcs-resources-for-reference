@@ -47,8 +47,10 @@ Feel free to make commits to this README or add new Markdown documents to add mo
 * [TypeScript at Google Style Guide](https://google.github.io/styleguide/tsguide.html) `docs` `google`
 
 ## Docker & Environment Standardization
-* 
-* [Running and Building ARM Docker Containers on x86](https://www.stereolabs.com/docs/docker/building-arm-container-on-x86/)
+* [Never install locally again (An Introduction to Docker & containers)](https://youtu.be/J0NuOlA2xDc) `video` *`recommended`*
+* [Learn Docker in 1 Hour - Tutorial for Beginners](https://youtu.be/pTFZFxd4hOI) `video` `tutorial`
+* [Running and Building ARM Docker Containers on x86](https://www.stereolabs.com/docs/docker/building-arm-container-on-x86/) `tutorial` `vehicle-integration`
+
 
 ---
 # User Interface
