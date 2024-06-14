@@ -3,7 +3,7 @@
 <div align='center'>
 
 ### Website Link
-#### https://northrop-grumman-collaboration-project.github.io/gcs-resources-for-reference/
+#### https://ngcp-project.github.io/gcs-resources-for-reference/
 ##
 </div>
 
