@@ -9,4 +9,4 @@ theme: jekyll-theme-cayman
 
 include:
   - README.md
-  - RESOURCES.md
+  - gcs/*.md
