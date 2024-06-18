@@ -1,8 +1,9 @@
-# Resources
-
-The hub for external resources useful for the NGCP project.
-
-# Resources
+---
+layout: default
+title: Resources
+description: The hub for external resources useful for the NGCP project.
+---
+# Ground Control Station
 
 ## General
 ### Docker
@@ -17,7 +18,7 @@ The hub for external resources useful for the NGCP project.
 #### Raspberry Pi
 - [Build your own weather station](https://projects.raspberrypi.org/en/projects/build-your-own-weather-station) - tutorial of a more basic version of the Data Hub
 - [Raspberry Pi Shell Scripting](https://medium.com/coinmonks/raspberry-pi-3-model-b-shell-scripting-door-monitor-b44944f82d87) - tutorial introduction to universal way to read/write data with GPIO pins on RPi's
-
+- [GPIO Programming using `sysfs` Linux interface](https://www.ics.com/blog/gpio-programming-using-sysfs-interface) - language agnostic way to read/write from GPIO pins
 #### Arduino
 > NOTE: Arduino is not a specific hardware microcontroller, but rather a brand that makes microcontrollers.
 
