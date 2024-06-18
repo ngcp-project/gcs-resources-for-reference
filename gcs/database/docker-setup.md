@@ -1,5 +1,8 @@
-# Docker Setup
-Docker container used to host the Redis and RabbitMQ servers 
+---
+layout: default
+title: Docker Setup
+description: Docker container used to host the Redis and RabbitMQ servers 
+---
 
 ## Instructions
 1. Create a `.env` file in the main gcs-database-api folder if it doesn't already exist using the format provided in `.env.sample`

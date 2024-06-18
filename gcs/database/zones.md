@@ -1,3 +1,7 @@
+---
+layout: default
+title: Geofence Zones Endpoint
+---
 ## zones/in (GET)
 
 - Example call: http://localhost:5135/zones/in

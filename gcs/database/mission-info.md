@@ -1,3 +1,7 @@
+---
+layout: default
+title: Mission Info Endpoints
+---
 ## MissionInfo (GET)
 
 - Example call: http://localhost:5135/MissionInfo?missionName=Search%20Area%20Time

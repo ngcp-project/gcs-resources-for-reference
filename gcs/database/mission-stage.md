@@ -1,3 +1,7 @@
+---
+layout: default
+title: Mission Stage Endpoints
+---
 ## MissionStage (GET)
 
 - Example call: http://localhost:5135/MissionStage?missionName=Search%20Area%20Time&stageName=Initialize

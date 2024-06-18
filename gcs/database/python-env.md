@@ -1,4 +1,7 @@
-# Python Virtual Environment Setup
+---
+layout: default
+title: Python Virtual Environment Setup
+---
 
 ## Instructions
 1. Creating a virtual environment: `python3 -m venv test`

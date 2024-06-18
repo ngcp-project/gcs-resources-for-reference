@@ -1,4 +1,7 @@
-# Testing the Sending and Receiving of Telemetry Data
+---
+layout: default
+title: Testing the Sending and Receiving of Telemetry Data
+---
 This page provides instructions on how to set up and test:
 * The RabbitMQ connection from vehicle integration to backend
 * The WebSocket connection between frontend and backend
@@ -9,6 +12,6 @@ This page provides instructions on how to set up and test:
 2. Install [Python](https://wiki.python.org/moin/BeginnersGuide/Download)
 
 ## Instructions
-1. Setup [Docker Container](https://github.com/Northrop-Grumman-Collaboration-Project/gcs-database-api/wiki/Docker-Setup)
-2. Set up [Python Virtual Environment](https://github.com/Northrop-Grumman-Collaboration-Project/gcs-database-api/wiki/Python-Virtual-Environment-Setup)
+1. Setup [Docker Container](docker-setup.md)
+2. Set up [Python Virtual Environment](python-env.md)
 3. ...

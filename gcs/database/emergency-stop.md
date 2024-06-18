@@ -1,3 +1,7 @@
+---
+layout: default
+title: Emergency Stop Endpoint
+---
 ## EmergencyStop (POST)
 
 - Example call: http://localhost:5135/EmergencyStop
