@@ -1,7 +1,12 @@
 plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
+
+theme: jekyll-theme-cayman
+
 include:
   - README.md
+  - gcs/*.md
