@@ -15,6 +15,7 @@ description: External resources useful for members of the NGCP project
 * [Common Conventions for Writing Commit Titles](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) `docs` `article`
 
 ### Docker
+* [Docker Setup](./database/docker-setup.md)
 
 ### Linux
 
