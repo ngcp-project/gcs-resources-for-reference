@@ -6,6 +6,14 @@ description: External resources useful for members of the NGCP project
 
 # Ground Control Station
 ## General
+
+### Version Control
+* [GitHub Pull Requests in 100 Seconds](https://www.youtube.com/watch?v=8lGpZkjnkt4) `video`
+* [Using Git in VS Code](https://www.youtube.com/watch?v=lYiE5lBS13E) `video`
+* [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) `blog`
+* [Git Commands Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) `PDF`
+* [Common Conventions for Writing Commit Titles](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) `docs` `article`
+
 ### Docker
 
 ### Linux
